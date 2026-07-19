@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffdf8"/>
+      <stop offset="60%" stop-color="#f8f5f2"/>
+      <stop offset="100%" stop-color="#f5eafd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#d946ef" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#d946ef" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="460" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="460" rx="28" fill="url(#glow)"/>
+  <g opacity=".11" stroke="#18181b">
+    <path d="M70 330 C280 220, 410 420, 640 290 S1020 190, 1325 300" fill="none"/>
+    <path d="M70 365 C290 275, 420 440, 650 330 S1030 230, 1325 345" fill="none"/>
+    <path d="M930 30V430M1030 30V430M1130 30V430M1230 30V430"/>
+  </g>
+  <text x="76" y="92" fill="#52525b" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">ETHICAL · SUSTAINABLE · UNIVERSAL STRATEGIES</text>
+  <text x="72" y="210" fill="#18181b" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700">JOE<tspan fill="#c026d3">FATHI</tspan></text>
+  <text x="77" y="268" fill="#27272a" font-family="Arial, Helvetica, sans-serif" font-size="29">Digital Transformation Strategist · Technology Leader · Product Builder</text>
+  <text x="77" y="335" fill="#71717a" font-family="Arial, Helvetica, sans-serif" font-size="22">20+ years in technology. 28+ private repositories. Still experimenting.</text>
+  <g transform="translate(77 374)">
+    <rect width="278" height="48" rx="24" fill="#18181b" opacity=".06" stroke="#18181b" stroke-opacity=".16"/>
+    <text x="22" y="31" fill="#27272a" font-family="Arial, Helvetica, sans-serif" font-size="18">YOU HAVE CHAOS. I HAVE FRAMEWORKS.</text>
+  </g>
+</svg>

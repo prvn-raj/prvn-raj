@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="55%" stop-color="#17171c"/>
+      <stop offset="100%" stop-color="#2a1634"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#d946ef" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#d946ef" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="32"/></filter>
+  </defs>
+  <rect width="1400" height="460" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="460" rx="28" fill="url(#glow)"/>
+  <circle cx="1180" cy="110" r="150" fill="#a855f7" opacity=".08" filter="url(#soft)"/>
+  <circle cx="1270" cy="300" r="170" fill="#ec4899" opacity=".07" filter="url(#soft)"/>
+  <g opacity=".13" stroke="#ffffff">
+    <path d="M70 330 C280 220, 410 420, 640 290 S1020 190, 1325 300" fill="none"/>
+    <path d="M70 365 C290 275, 420 440, 650 330 S1030 230, 1325 345" fill="none"/>
+    <path d="M930 30V430M1030 30V430M1130 30V430M1230 30V430"/>
+  </g>
+  <text x="76" y="92" fill="#d4d4d8" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">ETHICAL · SUSTAINABLE · UNIVERSAL STRATEGIES</text>
+  <text x="72" y="210" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700">JOE<tspan fill="#d946ef">FATHI</tspan></text>
+  <text x="77" y="268" fill="#e4e4e7" font-family="Arial, Helvetica, sans-serif" font-size="29">Digital Transformation Strategist · Technology Leader · Product Builder</text>
+  <text x="77" y="335" fill="#a1a1aa" font-family="Arial, Helvetica, sans-serif" font-size="22">20+ years in technology. 28+ private repositories. Still experimenting.</text>
+  <g transform="translate(77 374)">
+    <rect width="278" height="48" rx="24" fill="#ffffff" opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+    <text x="22" y="31" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="18">YOU HAVE CHAOS. I HAVE FRAMEWORKS.</text>
+  </g>
+</svg>
