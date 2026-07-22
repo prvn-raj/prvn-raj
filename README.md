@@ -10,6 +10,17 @@
   <a href="https://github.com/prvn-raj/product-lab"><img src="https://img.shields.io/badge/CONFIDENTIAL_BUILD_LAB-28%2B_REPOS-C026D3?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+praveen@github:~$ ./whoami
+
+uptime          20+ years
+operating_mode  architect | builder | fixer
+current_branch  corporate-banking-platforms
+private_repos   28+
+production_env  fintech
+debug_mode      permanently_enabled
+last_incident   classified
+status          shipping
+
 ## Nice to meet you. I’m Raj.
 
 **Digital Transformation Strategist based in Bengaluru, India.**
