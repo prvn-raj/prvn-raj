@@ -36,19 +36,19 @@ location:       Bengaluru, India
 uptime:         20+ years in technology
 production_env: fintech
 operating_mode:
-  - architect
-  - builder
-  - fixer
+                - architect
+                - builder
+                - fixer
 current_branch: corporate-banking-platforms
-background_jobs:
-  - Solyte
-  - Solflow
-  - Turning Point
-  - Claque
-private_repos: 28+
-debug_mode:    permanently_enabled
-last_incident: classified
-status:        shipping
+side_hustle:
+                - Solyte
+                - Solflow
+                - Turning Point
+                - Claque
+private_repos:  28+
+debug_mode:     permanently_enabled
+last_incident:  classified
+status:         shipping
 ```
 
 I work at the intersection of **technology, product, business and human behaviour** the place where ambitious ideas usually become complicated systems.
