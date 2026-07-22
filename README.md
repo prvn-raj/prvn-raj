@@ -144,7 +144,7 @@ Decision intelligence for students and institutions—beyond static aptitude rep
 </td>
 <td width="50%" valign="top">
 
-### 📺 Live Studio · Playful Tech
+### 📺 Claque · Playful Tech
 
 A simulated live audience with configurable viewers, comments, reactions and believable pacing.
 
