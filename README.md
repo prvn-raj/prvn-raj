@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=praveen%40github%3A~%24+.%2Fwhoami+--verbose;20%2B+years+inside+complex+systems.;Architect.+Builder.+Fixer.+Still+debugging.;Private+repositories%3A+28%2B.+Curiosity%3A+unbounded." alt="Terminal introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=20%2B+years+inside+complex+systems.;Architect.+Builder.+Fixer.+Still+debugging.;Private+repositories%3A+28%2B.+Curiosity%3A+unbounded." alt="Terminal introduction">
 </a>
 
 </div>
