@@ -31,7 +31,6 @@
 ## `praveen@github:~$ ./whoami --verbose`
 
 ```yaml
-^^^^^^
              ~isriiii~~ii~
           ~rsxxsi^^~~^^^~ii~               # -- runtime ------------------------------
         iX2xirsxsi~^~ri^   ^~              identity:       Praveen Raj
@@ -58,8 +57,6 @@
  isr~^   ~rX5332Xsiiiii                    debug_mode:     permanently_enabled
 isr~i~   ^~~~~irssri~^                     last_incident:  classified
 rr~ii^    ^isr^                            status:         shipping
-i~rs~     ^issr~
-~isi^     rsrrrr
 ```
 
 I work at the intersection of **technology, product, business and human behaviour** the place where ambitious ideas usually become complicated systems.
