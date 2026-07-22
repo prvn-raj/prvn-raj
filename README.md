@@ -366,19 +366,6 @@ LESSON: every “temporary” integration eventually requests production support
 
 ---
 
-## Selected public builds
-
-These repositories are earlier public prototypes and working experiments. The descriptions below reflect what the code actually does.
-
-| Product | What it demonstrates | Repository |
-|---|---|---|
-| [**Claque**](https://github.com/prvn-raj/livestream) | Camera-based simulated live experience with generated viewer counts, comments and reactions | `prvn-raj/livestream` |
-| [**Mood Weather**](https://github.com/prvn-raj/moodweather7.0_notifications) | Records mood alongside local weather, maintains mood history and explores weather-based mood prediction | `prvn-raj/moodweather7.0_notifications` |
-| [**IIMB Voice**](https://github.com/prvn-raj/IIMBVoice) | IIM Bangalore live-radio player with streaming, now-playing metadata, playback progress and theme switching | `prvn-raj/IIMBVoice` |
-| [**Only Believe Tamil Radio**](https://github.com/prvn-raj/onlybelievetamilradio3_enhanceUI) | Tamil live-radio player with audio streaming, current-track metadata and a light/dark player interface | `prvn-raj/onlybelievetamilradio3_enhanceUI` |
-
----
-
 ## Engineering telemetry
 
 <picture>
