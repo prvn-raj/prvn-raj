@@ -3,27 +3,44 @@ name: Generate Contribution Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 2 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: prvn-raj
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          node-version: 22
 
-      - name: Push to output branch
+      - name: Install snake generator
+        run: npm install @snk/cli
+
+      - name: Generate contribution snakes
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+        run: |
+          mkdir -p dist
+          npx snk generate \
+            --user prvn-raj \
+            --github-token "$GITHUB_TOKEN" \
+            --output dist/github-contribution-grid-snake.svg
+
+          npx snk generate \
+            --user prvn-raj \
+            --github-token "$GITHUB_TOKEN" \
+            --palette github-dark \
+            --output dist/github-contribution-grid-snake-dark.svg
+
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
