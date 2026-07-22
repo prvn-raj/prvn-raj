@@ -45,15 +45,15 @@ background_jobs:
   - Solflow
   - Turning Point
   - Claque
-private_repos:  28+
-debug_mode:     permanently_enabled
-last_incident:  classified
-status:         shipping
+private_repos: 28+
+debug_mode:    permanently_enabled
+last_incident: classified
+status:        shipping
 ```
 
-I work at the intersection of **technology, product, business and human behaviour**—the place where ambitious ideas usually become complicated systems.
+I work at the intersection of **technology, product, business and human behaviour** the place where ambitious ideas usually become complicated systems.
 
-Two decades in FinTech taught me how systems really work. Not only the ones in code—the ones in meeting rooms, operating models, customer journeys, budgets, incentives and production incidents at 2 a.m.
+Two decades in FinTech taught me how systems really work. Not only the ones in code the ones in meeting rooms, operating models, customer journeys, budgets, incentives and production incidents at 2 a.m.
 
 > **Senior engineer by origin. Technology executive by accumulated side effects.**
 
@@ -67,7 +67,7 @@ Two decades in FinTech taught me how systems really work. Not only the ones in c
 
 ### 🧩 Cross-domain systems thinking
 
-I see how product, money, people and technology connect—and where the system will break before the diagram admits it.
+I see how product, money, people and technology connect and where the system will break before the diagram admits it.
 
 </td>
 <td width="50%" valign="top">
