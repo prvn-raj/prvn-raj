@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="JoeFathi — Digital Transformation Strategist, Technology Leader and Product Builder" src="./assets/hero-dark.svg" width="100%">
+  <img alt="Praveen Raj — Digital Transformation Strategist, Technology Leader and Product Builder" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
 <p align="center">
