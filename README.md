@@ -219,16 +219,6 @@ Luxury flashlights, premium photons, fake scientific controls and other products
 
 ---
 
-## Public signals
-
-| Project | Experiment | Activity |
-|---|---|---|
-| [**IIMBVoice**](https://github.com/prvn-raj/IIMBVoice) | Voice and radio-style mobile experience | ![Stars](https://img.shields.io/github/stars/prvn-raj/IIMBVoice?style=flat-square) |
-| [**Livestream**](https://github.com/prvn-raj/livestream) | Flutter live-content interface | ![Issues](https://img.shields.io/github/issues/prvn-raj/livestream?style=flat-square) |
-| [**MoodWeather**](https://github.com/prvn-raj/moodweather7.0_notifications) | Weather, mood and notification interactions | ![Forks](https://img.shields.io/github/forks/prvn-raj/moodweather7.0_notifications?style=flat-square) |
-| [**Tamil Radio**](https://github.com/prvn-raj/onlybelievetamilradio3_enhanceUI) | Audio streaming and mobile UI evolution | ![Stars](https://img.shields.io/github/stars/prvn-raj/onlybelievetamilradio3_enhanceUI?style=flat-square) |
-
----
 
 ## Currently
 
