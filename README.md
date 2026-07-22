@@ -31,24 +31,35 @@
 ## `praveen@github:~$ ./whoami --verbose`
 
 ```yaml
-identity:       Praveen Raj
-location:       Bengaluru, India
-uptime:         20+ years in technology
-production_env: fintech
-operating_mode:
-                - architect
-                - builder
-                - fixer
-current_branch: corporate-banking-platforms
-side_hustle:
-                - Solyte
-                - Solflow
-                - Turning Point
-                - Claque
-private_repos:  28+
-debug_mode:     permanently_enabled
-last_incident:  classified
-status:         shipping
+^^^^^^
+             ~isriiii~~ii~
+          ~rsxxsi^^~~^^^~ii~               # -- runtime ------------------------------
+        iX2xirsxsi~^~ri^   ^~              identity:       Praveen Raj
+       iXXrrrrrsr~ ^~~^         ~^         location:       Bengaluru, India
+      iXXrirsri^                 ~~        uptime:         20+ years in technology
+      xAXsi~                      i^       production_env: fintech
+     ~xxi^^irxA22AAXxsri~         ~~       current_branch: corporate-banking-platforms
+     ixxxA3HGS99QQSSGHMh5Xr^      i^
+     ^rx3S99999QSSSSSGGHh5Xr^     ~        # -- operating mode -----------------------
+      r2G909999QQSGSSSGHM3Axsi   ^~        operating_mode:
+      rh909QSGHGSSSQQQGMh5Asssr~~~                         - architect
+     ^xMGHM32xsX5MGGh2xrii~ ^sXxi                          - builder
+    ~AHM3MHM3XssxXXr~^issr~~^~ss~                          - fixer
+    ~5GGHG99SMhhh5As~rX22AAXsrxxs~
+    ^AHQGHGSGGGGHGG5sx5h3335A22Xi          # -- background jobs ----------------------
+     sM99QGHHMMHQ9QhxisA5522255x^          side_hustle:
+      AG999QSGGSQQG5sis2352AA2Ar                           - Solyte
+      ^2Q99QSGGHh2x~ ^s5Mh2XAAi                            - Solflow
+       sM99SM35hh5Xr^  ixXxxXr                             - Turning Point
+       ~AHSSHMHGGMhAr~~~iiiss~                             - Claque
+ ^~~~iiis2hMHQ9QH5AXxsri^   ^^~
+ ~~iri^ iAh353HHh2xxsi^                    # -- diagnostics --------------------------
+  ~ri^  ~XhHh2Xsi^                    ~    private_repos:  28+
+ isr~^   ~rX5332Xsiiiii                    debug_mode:     permanently_enabled
+isr~i~   ^~~~~irssri~^                     last_incident:  classified
+rr~ii^    ^isr^                            status:         shipping
+i~rs~     ^issr~
+~isi^     rsrrrr
 ```
 
 I work at the intersection of **technology, product, business and human behaviour** the place where ambitious ideas usually become complicated systems.
