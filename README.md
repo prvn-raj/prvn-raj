@@ -204,6 +204,7 @@ The lab is where I test products before they become presentations, companies or 
 An evolving human-intelligence platform built around cognitive, emotional, stress, personality and behavioural signals.
 
 `Assessment systems` `Neural identity` `AI interpretation`
+www.solyte.life
 
 </td>
 <td width="50%" valign="top">
