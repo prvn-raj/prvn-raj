@@ -214,7 +214,7 @@ www.solyte.life
 A calm, typography-first momentum system connecting hydration, calories, workouts and expenses.
 
 `Flutter` `Behaviour design` `Personal data`
-
+https://play.google.com/store/apps/details?id=com.joefathi.solflow&pcampaignid=web_share
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ A simulated live audience with configurable viewers, comments, reactions and bel
 A compact experiment around reflection, intent, action and personal accountability.
 
 `Mobile` `Reflection` `Behaviour loop`
-
+https://play.google.com/store/apps/details?id=joefathi.com.karmabox&pcampaignid=web_share
 </td>
 <td width="50%" valign="top">
 
