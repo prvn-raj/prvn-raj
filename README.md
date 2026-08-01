@@ -234,7 +234,7 @@ Decision intelligence for students and institutions—beyond static aptitude rep
 A simulated live audience with configurable viewers, comments, reactions and believable pacing.
 
 `Flutter` `Supabase` `Interaction experiment`
-
+https://play.google.com/store/apps/details?id=com.joefathi.claque&pcampaignid=web_share
 </td>
 </tr>
 <tr>
