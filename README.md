@@ -440,9 +440,19 @@ WARN  curiosity    exceeds available weekend capacity
 ## Contributions, consumed as technical debt
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution activity animation" src="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake-dark.svg?v=2"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake.svg?v=2"
+  >
+  <img
+    alt="Contribution activity animation"
+    src="https://raw.githubusercontent.com/prvn-raj/prvn-raj/output/github-contribution-grid-snake-dark.svg?v=2"
+    width="100%"
+  >
 </picture>
 
 ---
