@@ -204,17 +204,16 @@ The lab is where I test products before they become presentations, companies or 
 An evolving human-intelligence platform built around cognitive, emotional, stress, personality and behavioural signals.
 
 `Assessment systems` `Neural identity` `AI interpretation`
-www.solyte.life
+<a href="https://www.solyte.life">solyte.life</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⛪ HolyManage · Vertical SaaS
 
-An operating system for churches in India—bringing members, giving, communications, sacraments and governance into one platform.
+An operating system for churches in India-bringing members, giving, communications, sacraments and governance into one platform.
 
-`Vertical SaaS` `Multi-tenant` `FinTech` `Workflow automation`
-
+`Vertical SaaS` `Multi-tenant` `Workflow automation`
 <a href="https://holymanage.com">holymanage.com</a>
 </td>
 </tr>
@@ -223,7 +222,7 @@ An operating system for churches in India—bringing members, giving, communicat
 
 ### 🧭 Turning Point · EdTech
 
-Decision intelligence for students and institutions—beyond static aptitude reports.
+Decision intelligence for students and institutions-beyond static aptitude reports.
 
 `Assessment engine` `Guidance` `Institutions`
 
