@@ -229,6 +229,15 @@ Decision intelligence for students and institutions—beyond static aptitude rep
 </td>
 <td width="50%" valign="top">
 
+### ⛪ HolyManage · Vertical SaaS
+
+An operating system for churches in India—members, giving, communications,
+sacraments and governance, from a single congregation to an entire network.
+
+`SaaS` `Multi-tenant` `FinTech` `WhatsApp` `India-first`
+
+https://holymanage.com
+
 ### 👏 Claque · Simulated Audience
 
 A simulated live audience with configurable viewers, comments, reactions and believable pacing.
