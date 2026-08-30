@@ -209,12 +209,12 @@ www.solyte.life
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Solflow · Personal Analytics
+### ⛪ HolyManage · Vertical SaaS
 
-A calm, typography-first momentum system connecting hydration, calories, workouts and expenses.
+An operating system for churches in India—bringing members, giving, communications, sacraments and governance into one platform.
 
-`Flutter` `Behaviour design` `Personal data`
-https://play.google.com/store/apps/details?id=com.joefathi.solflow&pcampaignid=web_share
+`Vertical SaaS` `Multi-tenant` `FinTech` `Workflow automation`
+
 </td>
 </tr>
 <tr>
@@ -249,11 +249,12 @@ https://play.google.com/store/apps/details?id=joefathi.com.karmabox&pcampaignid=
 </td>
 <td width="50%" valign="top">
 
-### ⛪ HolyManage · Vertical SaaS
+### 🌊 Solflow · Personal Analytics
 
-An operating system for churches in India—bringing members, giving, communications, sacraments and governance into one platform.
+A calm, typography-first momentum system connecting hydration, calories, workouts and expenses.
 
-`Vertical SaaS` `Multi-tenant` `FinTech` `Workflow automation`
+`Flutter` `Behaviour design` `Personal data`
+https://play.google.com/store/apps/details?id=com.joefathi.solflow&pcampaignid=web_share
 
 <a href="https://holymanage.com">holymanage.com</a>
 
