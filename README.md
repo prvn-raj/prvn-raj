@@ -48,10 +48,10 @@
     ^AHQGHGSGGGGHGG5sx5h3335A22Xi          # -- background jobs ----------------------
      sM99QGHHMMHQ9QhxisA5522255x^          side_hustle:
       AG999QSGGSQQG5sis2352AA2Ar                           - Solyte
-      ^2Q99QSGGHh2x~ ^s5Mh2XAAi                            - Solflow
+      ^2Q99QSGGHh2x~ ^s5Mh2XAAi                            - HolyManage
        sM99SM35hh5Xr^  ixXxxXr                             - Turning Point
        ~AHSSHMHGGMhAr~~~iiiss~                             - Claque
- ^~~~iiis2hMHQ9QH5AXxsri^   ^^~
+ ^~~~iiis2hMHQ9QH5AXxsri^   ^^~                            - Solflow
  ~~iri^ iAh353HHh2xxsi^                    # -- diagnostics --------------------------
   ~ri^  ~XhHh2Xsi^                    ~    private_repos:  28+
  isr~^   ~rX5332Xsiiiii                    debug_mode:     permanently_enabled
@@ -229,15 +229,6 @@ Decision intelligence for students and institutions—beyond static aptitude rep
 </td>
 <td width="50%" valign="top">
 
-### ⛪ HolyManage · Vertical SaaS
-
-An operating system for churches in India—members, giving, communications,
-sacraments and governance, from a single congregation to an entire network.
-
-`SaaS` `Multi-tenant` `FinTech` `WhatsApp` `India-first`
-
-https://holymanage.com
-
 ### 👏 Claque · Simulated Audience
 
 A simulated live audience with configurable viewers, comments, reactions and believable pacing.
@@ -258,11 +249,13 @@ https://play.google.com/store/apps/details?id=joefathi.com.karmabox&pcampaignid=
 </td>
 <td width="50%" valign="top">
 
-### 🔦 Classified · Unnecessary Innovation
+### ⛪ HolyManage · Vertical SaaS
 
-Luxury flashlights, premium photons, fake scientific controls and other products nobody requested.
+An operating system for churches in India—bringing members, giving, communications, sacraments and governance into one platform.
 
-`Satire` `Consumer apps` `Questionable necessity`
+`Vertical SaaS` `Multi-tenant` `FinTech` `Workflow automation`
+
+<a href="https://holymanage.com">holymanage.com</a>
 
 </td>
 </tr>
@@ -278,7 +271,7 @@ Luxury flashlights, premium photons, fake scientific controls and other products
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│ DOMAIN       Corporate Banking · FinTech · PsyTech · EdTech         │
+│ DOMAIN       Vertical SaaS · FinTech · PsyTech · EdTech             │
 ├──────────────────────────────────────────────────────────────────────┤
 │ EXPERIENCE   Product Strategy · Delivery · Architecture · Platforms │
 ├──────────────────────────────────────────────────────────────────────┤
@@ -401,7 +394,7 @@ LESSON: every “temporary” integration eventually requests production support
 ```text
 YEARS_IN_TECHNOLOGY       20+
 PRIVATE_BUILDS            28+
-PRIMARY_DOMAINS           FINTECH · PSYTECH · EDTECH
+PRIMARY_DOMAINS           FINTECH · PSYTECH · EDTECH · VERTICAL SAAS
 CURRENT_MODE              ARCHITECT / BUILDER / FIXER
 PRODUCTION_SCARS          REDACTED
 TECH_DEBT                 OBSERVED
