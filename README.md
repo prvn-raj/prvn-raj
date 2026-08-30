@@ -215,6 +215,7 @@ An operating system for churches in India—bringing members, giving, communicat
 
 `Vertical SaaS` `Multi-tenant` `FinTech` `Workflow automation`
 
+<a href="https://holymanage.com">holymanage.com</a>
 </td>
 </tr>
 <tr>
@@ -255,8 +256,6 @@ A calm, typography-first momentum system connecting hydration, calories, workout
 
 `Flutter` `Behaviour design` `Personal data`
 https://play.google.com/store/apps/details?id=com.joefathi.solflow&pcampaignid=web_share
-
-<a href="https://holymanage.com">holymanage.com</a>
 
 </td>
 </tr>
